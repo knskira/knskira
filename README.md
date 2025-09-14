@@ -43,7 +43,8 @@ Now, I’m on an exciting path into **Data Science and Data Engineering** — di
 ---
 
 ## 📫 Let’s Connect  
-- ✉️ Email: knskira@gmail.com 
+- ✉️ Email: knskira@gmail.com
+- 💼 LinkedIn: :https://www.linkedin.com/in/usha-kiranmayee-49814849/
 
 
 -->
